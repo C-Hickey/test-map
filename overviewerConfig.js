@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1590414248",
+        "cacheTag": "1590488997",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -42,28 +42,28 @@ var overviewerConfig = {
     "tilesets": [
         {
             "name": "Overviewer Render (lighting)",
-            "zoomLevels": 7,
+            "zoomLevels": 6,
             "defaultZoom": 1,
-            "maxZoom": 7,
+            "maxZoom": 6,
             "path": "world-lighting",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "world",
-            "last_rendertime": 1590414132,
+            "last_rendertime": 1590488929,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                112,
+                192,
                 80,
-                -160
+                -48
             ],
             "minZoom": 0,
             "spawn": [
-                112,
+                192,
                 80,
-                -160
+                -48
             ],
             "north_direction": 0
         }
